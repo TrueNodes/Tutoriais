@@ -11,3 +11,5 @@ Vantagens:
 Para tutoriais de criação de masternodes clique [**aqui**](/masternode-create)
 
 Para tutoriais de reparos de carteira clique [**aqui**](/wallet-fix)
+
+Para tutorial de segurança clique [**aqui**](/Seguranca.md)
