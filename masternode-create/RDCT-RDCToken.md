@@ -2,7 +2,7 @@
 Neste tutorial você irá ver o passo a passo para a criação de um masternode e as etapas para nos enviar os parâmetros necessários para a hospedagem.
 
 ### Você irá precisar de
-* 7500 RDCT (compre um pouco a mais, pois você pode ter que pagar taxas de transação)
+* 7500 RDCT para cada masternode que for criar (compre um pouco a mais, pois você pode ter que pagar taxas de transação)
 * A carteira RDCToken baixada ([link para pagina de downloads](https://github.com/reidocoin/rdctoken/releases)]) e sincronizada (caso sua carteira não sincronize ou não esteja conectado a rede, siga [esse](/wallet-fix/RDCT-RDCToken.md) tutorial)
 
 ### Procedimento
@@ -25,10 +25,4 @@ Pronto. Seu masternode agora está ativo e em breve irá começar a gerar recomp
 
 ### Recomendações
 
-#### Criptografar carteira
-Essa etapa tem como finalidade impedir que alguém que tenha acesso ao seu arquivo wallet.dat possa movimentar suas moedas sem sua senha. Para criptografar a carteira vá no menu Configurações > Criptografar Carteira. Digite uma senha e repita.
-Atenção: se você esquecer/perder a senha você não vai mais conseguir movimentar suas moedas. Recomendo que anote no papel em um local seguro e de preferência tenha mais que uma cópia. Salvar a senha em meios digitais pode ser insegura pois quem tiver acesso ao seu arquivo de carteira talvéz também tenha acesso a uma senha salva digitalmente.
-
-#### Backup de carteira
-Essa etapa tem como objetivo que você faça uma cópia de segurança do seu arquivo de carteira para permitir a você restaurar a carteira caso seu computador estrague e você fique sem acesso a sua carteira. Para fazer isso vá no menu Arquivo > carteira de backup (backup de carteira). Irá aparecer uma tela para você escolher onde salvar o arquivo de carteira. Salve ele em um ou mais locais seguros.
-
+Veja as [recomendações de segurança](/Seguranca.md)
