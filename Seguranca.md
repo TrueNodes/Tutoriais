@@ -24,5 +24,10 @@ O backup de carteira assegura que caso ocorra algum problema com seu computador 
 - Irá aparecer uma janela para você escolher onde salvar o arquivo de carteira. Salve ele em um ou mais locais seguros. Você pode fazer cópias desse arquivo em pendrives por exemplo.
 - Fazer o backup uma unica vez normalmente é o suficiente, mas para evitar problemas de desindexação de endereços é recomendado refazer o backup toda vez que gerar um novo endereço para recebimento ou criar um novo masternode.
 
+Dica extra de backup: você pode também fazer backup copiando para um local seguro toda a pasta de dados da moeda. Ela normalmente extá localizada:
+- No linux: ```/home/nomedeusuario/.nomedamoeda/``` (pasta normalmente está oculta. Use o atalho ```Ctrl+H``` para visualizar itens ocultos)
+- No windows: ```%appdata%/nomedamoeda/```
+
+
 Atenção:
 Se você não tiver feito o procedimento de criptografia de carteira antes de fazer o backup, esse arquivo de carteira está desprotegido e qualquer pessoa com acesso a esse arquivo pode movimentar seus fundos, então tome cuidado.
