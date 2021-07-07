@@ -2,7 +2,7 @@
 
 1. Feche sua carteira;
 2. Localize e abra o arquivo ```rdct.conf```. Ele está localizado:
-  * No linux: ```/home/nomedeusuario/.rdct/rdct.conf```
+  * No linux: ```/home/nomedeusuario/.rdct/rdct.conf``` (pasta normalmente está oculta. Use o atalho ```Ctrl+H``` para visualizar itens ocultos)
   * No windows: ```%appdata%/RDCT/rdct.conf```
 3. No final do arquivo adicione a seguinte lista:
   ```
