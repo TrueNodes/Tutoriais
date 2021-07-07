@@ -3,7 +3,7 @@ Neste tutorial você irá ver o passo a passo para a criação de um masternode 
 
 ### Você irá precisar de
 * 7500 RDCT para cada masternode que for criar (compre um pouco a mais, pois você pode ter que pagar taxas de transação)
-* A carteira RDCToken baixada ([link para pagina de downloads](https://github.com/reidocoin/rdctoken/releases)]) e sincronizada (caso sua carteira não sincronize ou não esteja conectado a rede, siga [esse](/wallet-fix/RDCT-RDCToken.md) tutorial)
+* A carteira RDCToken baixada ([link para pagina de downloads](https://github.com/reidocoin/rdctoken/releases)) e sincronizada (caso sua carteira não sincronize ou não esteja conectado a rede, siga [esse](/wallet-fix/RDCT-RDCToken.md) tutorial)
 
 ### Procedimento
 1. Abra sua carteira RDCToken já sincronizada;
