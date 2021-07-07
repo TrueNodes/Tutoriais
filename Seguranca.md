@@ -22,6 +22,7 @@ O backup de carteira assegura que caso ocorra algum problema com seu computador 
 #### Para fazer:
 - Vá no menu ```Arquivo``` ```>``` ```carteira de backup (backup de carteira)```
 - Irá aparecer uma janela para você escolher onde salvar o arquivo de carteira. Salve ele em um ou mais locais seguros. Você pode fazer cópias desse arquivo em pendrives por exemplo.
+- Fazer o backup uma unica vez normalmente é o suficiente, mas para evitar problemas de desindexação de endereços é recomendado refazer o backup toda vez que gerar um novo endereço para recebimento ou criar um novo masternode.
 
 Atenção:
 Se você não tiver feito o procedimento de criptografia de carteira antes de fazer o backup, esse arquivo de carteira está desprotegido e qualquer pessoa com acesso a esse arquivo pode movimentar seus fundos, então tome cuidado.
