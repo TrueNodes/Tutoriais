@@ -2,5 +2,5 @@
 ---
 ### Moedas:
 * [**RDCToken - RDCT**](RDCT-RDCToken.md)
-* [**XLunarium - XLN**](XLN-XLunarium.md)
+* [**Lunarium - XLN**](XLN-XLunarium.md)
 * [**ZCore - ZCR**](ZCR-ZCore.md)
