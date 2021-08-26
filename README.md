@@ -8,8 +8,11 @@ Vantagens:
 - Você é o único dono de suas moedas. As moedas nunca saem da sua carteira e nós não temos acesso a elas, sendo assim, não tem como a gente te roubar;
 - Preço justo. Tentamos manter um preço acessível e oferecemos um período de teste gratuito para você testar nossos serviços sem custo.
 
-Para tutoriais de criação de masternodes clique [**aqui**](/masternode-create)
+---
+### Tutoriais
 
-Para tutoriais de reparos de carteira clique [**aqui**](/wallet-fix)
+* [**Criação e hospedagem de masternodes**](/masternode-create)
 
-Para tutorial de segurança clique [**aqui**](/Seguranca.md)
+* [**Reparos de carteira**](/wallet-fix)
+
+* [**Segurança**](/Seguranca.md)
