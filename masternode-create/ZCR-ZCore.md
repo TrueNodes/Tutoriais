@@ -6,7 +6,7 @@ Neste tutorial você irá ver o passo a passo para a criação de um masternode 
 * A carteira ZCore baixada ([link para pagina de downloads](https://github.com/zcore-coin/zcore-2.0/releases/latest)) e sincronizada
 
 ### Procedimento
-1. Abra sua carteira ZCore já sincronizada;
+1. Abra sua carteira ZCore e se certifique de que esteja sincronizada ou aguarde sincronização completa;
 2. Em cima no menu clique em ```Ferramentas(tools) > Debug Console```
 3. Digite ```getaccountaddress masternode01```. Você pode trocar o nome "masternode01" por outro de sua preferência. Será gerado um endereço de recebimento. Caso for hospedar mais de 1 masternode, gere um novo endereço para cada masternode.
 4. Envie exatamente 5000 moedas para esse(s) endereço(s);
@@ -23,6 +23,6 @@ Neste tutorial você irá ver o passo a passo para a criação de um masternode 
 
 Pronto. Seu masternode agora está ativo e em breve irá começar a gerar recompensas, que irão direto para sua carteira. Caso precise de suporte, [entre em contato](https://github.com/TrueNodes/SUPORTE.md).
 
-### Recomendações
+### Recomendações (muito importante!)
 
 Veja as [recomendações de segurança](/Seguranca.md)
