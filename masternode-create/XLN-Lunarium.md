@@ -1,3 +1,5 @@
+Linguagem: [PORTUGUÊS](#tutorial-de-criação-de-masternode-lunarium-hospedado-pela-true-nodes) | [ENGLISH](#lunarium-masternode-creation-and-hosting-tutorial-by-true-nodes)
+
 # Tutorial de criação de masternode Lunarium hospedado pela True Nodes
 Neste tutorial você irá ver o passo a passo para a criação de um masternode e as etapas para nos enviar os parâmetros necessários para a hospedagem.
 
@@ -26,3 +28,34 @@ Pronto. Seu masternode agora está ativo e em breve irá começar a gerar recomp
 ### Recomendações (muito importante!)
 
 Veja as [recomendações de segurança](/Seguranca.md)
+
+---
+
+# Lunarium masternode creation and hosting tutorial by True Nodes
+In this tutorial you will see the step by step for creating a masternode and the steps to send us the parameters needed for hosting.
+
+### You will need
+* 10000 XLN for each masternode you create (buy a fraction more as you may have to pay transaction fees)
+* Lunarium wallet downloaded ([link to downloads page](https://github.com/LunariumCoin/lunarium/releases/latest)) and synced
+
+### Procedure
+1. Open your Lunarium wallet and make sure it is synced or wait for full sync;
+2. At the top of the menu click ```Tools(tools) > Debug Console```
+3. Type ```getaccountaddress masternode01```. You can change the name "masternode01" to one you like. A receiving address will be generated. If you are going to host more than 1 masternode, generate a new address for each masternode.
+4. Send exactly 10000 coins to this(these) address(es);
+6. Wait for the transaction to be fully confirmed;
+7. Returning to the console, type the command ```masternode outputs``` and press _[ENTER]_. If everything is ok, a list of allocated coins available for use in masternodes will appear. Each item has two parameters, the ```txhash``` and the ```outputindex```. Make a note of these parameters as they will be needed for hosting.
+8. While still at the console, type ```masternode genkey```. A PrivKey of your masternode will be generated. Make a note of this parameter as it is required for hosting. If you want to host more than 1 masternode, repeat the procedure to generate a key for each masternode.
+
+9. With the codes generated in steps ```7``` and ```8``` in hand, contact me via [telegram](https://t.me/matheus_bach) or [whatsapp](https://api.whatsapp.com/send?phone=5549985054419&text=I%20want%20host%20my%20masternode%20in%20True%20Nodes). With these codes I will host the masternode and provide you with the parameters used in the next step so you can activate the masternode in your wallet and view its status. I usually respond in a few hours. To speed up the process, prefer communication via telegram and have already noted the codes generated in steps ```7``` and ```8```, as they will be requested.
+
+10. After I provide you with the parameters of the hosting service, go to your wallet and at the top, go to the menu ```Tools > Open Masternode Configuration File```
+11. A file will be opened with a list containing the masternodes. At the end of the file add the line(s) I sent you where each line corresponds to a masternode. Save the file and close. Also close the Lunarium wallet and open it again so that the setting is applied and appears on your screen.
+12. Go to the Masternodes tab. If you have done the procedures correctly, your masternode will appear in the list,
+13. If your masternode status is not "ENABLED", click on the "Start MISSING" button located at the bottom of the window. Then your masternode will start.
+
+Ready. Your masternode is now active and will soon start generating rewards that will go straight to your wallet. If you need support, [contact me](https://github.com/TrueNodes/SUPORTE.md).
+
+### Recommendations (very important!)
+
+See the [safety recommendations](/Security.md) 
