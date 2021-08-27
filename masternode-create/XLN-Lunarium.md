@@ -1,4 +1,4 @@
-Linguagem: [PORTUGUÊS](#tutorial-de-criação-de-masternode-lunarium-hospedado-pela-true-nodes) | [ENGLISH](#lunarium-masternode-creation-and-hosting-tutorial-by-true-nodes)
+Linguagem / language: [PORTUGUÊS](#tutorial-de-criação-de-masternode-lunarium-hospedado-pela-true-nodes) | [ENGLISH](#lunarium-masternode-creation-and-hosting-tutorial-by-true-nodes)
 
 **Actual hosting price: only ```R$ 3,50``` (arround U$ 0.65) paid in crypto**
 
