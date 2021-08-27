@@ -1,6 +1,6 @@
 Linguagem / language: [PORTUGUÊS](#tutorial-de-criação-de-masternode-lunarium-hospedado-pela-true-nodes) | [ENGLISH](#lunarium-masternode-creation-and-hosting-tutorial-by-true-nodes)
 
-**Actual hosting price: only ```R$ 3,50``` (arround U$ 0.65) paid in crypto**
+[►]() **Actual hosting price: only ```R$ 3,50``` (arround U$ 0.65) paid in crypto**
 
 # Tutorial de criação de masternode Lunarium hospedado pela True Nodes
 Neste tutorial você irá ver o passo a passo para a criação de um masternode e as etapas para nos enviar os parâmetros necessários para a hospedagem.
